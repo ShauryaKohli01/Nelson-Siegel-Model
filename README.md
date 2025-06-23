@@ -1,4 +1,4 @@
-# Nelson-Siegel-Model
+# Nelson-Siegel Yield Curve Model
 
 
 Nelson-Siegel Model is a mathematical model which is used to define the shape of yield curve. This model was developed by Charles Nelson and Andrew Siegel in 1987. It is a graph that shows the interest rate (yield) for borrowing money over different lengths of time (maturity), from 1 month to 30+ years. 
