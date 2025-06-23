@@ -37,6 +37,8 @@ Nelson Siegal Model on Excel includes:
 
 3. Used the Daily Treasury Par Real Yield Curve Rates from the U.S. Department of the Treasury.
 
+   Link: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202506
+
 # Install dependencies:
 
 pip install numpy pandas matplotlib scipy (in the Terminal)
@@ -62,9 +64,6 @@ This project deepened my understanding of interest rate modeling, curve fitting,
 For a detailed explanation of the model and its implementation, read the full article on my Substack: 
 https://substack.com/home/post/p-166579391
 
-# Resources
-
-Daily Treasury Par Real Yield Curve Rates For the: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202506
 
 
 
